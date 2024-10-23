@@ -5,6 +5,7 @@
     "keywords": ["log","logging"],
     "homepage": "https://github.com/Syamsg/Mgen-Composer",
     "license": "MIT",
+    "version": "1.0.0", 
     "authors": [
         {
             "name": "syam s gopal",
@@ -15,6 +16,7 @@
     "require": {
         "php": ">=8.0.0"
     },
+    "minimum-stability": "dev",
     "autoload": {
         "psr-0": {
             "Composertest": "src"
